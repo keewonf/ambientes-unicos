@@ -8,14 +8,14 @@ Este projeto foi feito seguindo aulas rocketseat <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>;
  
 </p>
 
 
 <br>
 <p align="center">
-  <img alt="projeto Ambientes únicos" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Ambientes únicos" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
